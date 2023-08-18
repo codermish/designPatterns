@@ -1,0 +1,30 @@
+
+Low level Design -> deals with the code quality and how different classes of a component interact with each other
+Pre -> SOLID, DRY, OOPs
+
+# What are Design Pattern:
+
+They accelerate the developement process.
+Typical solution to commpnly occuring problems of system Design
+We need not create these pattern everytime the problem arises
+
+# Design Pattern Categorization:
+
+Categorization of design patterns is done on the basis of its purpose
+
+# Creational  
+                                 
+- Deals with object creation mechanism which increases flexibility and reuse of existing code.
+- oops concept followed-> Abstraction -> Client need not know what is happening behind
+- examples: Singleton , Factory and Abstract Factory
+
+ # Structural      
+ - These patterns explain how to assemble classes and objects to larger structures while keeping them flexible and efficient
+ - example - Adaptor
+
+ # Behavioral
+ - They take care of effective communication between classes and objects
+ - example -> strategy, chain of responsibility
+ 
+
+
